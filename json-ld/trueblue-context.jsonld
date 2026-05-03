@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "@vocab": "https://schema.trueblue.com/",
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "Worker": "schema:Person",
+    "Job": "schema:JobPosting",
+    "Employer": "schema:Organization",
+    "StaffingAgency": "schema:EmploymentAgency",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "jobTitle": "schema:title",
+    "hiringOrganization": "schema:hiringOrganization",
+    "baseSalary": "schema:baseSalary",
+    "employmentType": "schema:employmentType",
+    "workLocation": "schema:jobLocation",
+    "datePosted": {
+      "@id": "schema:datePosted",
+      "@type": "xsd:dateTime"
+    },
+    "skills": "schema:skills",
+    "qualifications": "schema:qualifications",
+    "industry": "schema:industry",
+    "startDate": {
+      "@id": "schema:startDate",
+      "@type": "xsd:date"
+    },
+    "endDate": {
+      "@id": "schema:endDate",
+      "@type": "xsd:date"
+    },
+    "workerCount": "schema:numberOfEmployees",
+    "brand": "schema:brand",
+    "platform": "platform",
+    "verificationStatus": "verificationStatus",
+    "rating": "schema:ratingValue"
+  }
+}

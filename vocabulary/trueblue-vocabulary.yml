@@ -1,0 +1,112 @@
+aid: trueblue-vocabulary
+name: TrueBlue Vocabulary
+description: >-
+  Domain vocabulary for TrueBlue's workforce solutions ecosystem, covering
+  staffing, talent acquisition, workforce management, and labor market
+  terminology used across TrueBlue's brands and platforms.
+created: '2026-05-03'
+modified: '2026-05-03'
+tags:
+  - Staffing
+  - Workforce Management
+  - Human Resources
+  - Talent Acquisition
+
+terms:
+  - term: JobStack
+    definition: >-
+      TrueBlue's proprietary digital staffing platform enabling on-demand
+      industrial workers to connect with PeopleReady clients. Features
+      ReadyMatch AI for instant job-worker matching and Instant Accept
+      for pre-qualified shifts.
+    tags:
+      - Technology Platforms
+      - PeopleReady
+
+  - term: Affinix
+    definition: >-
+      PeopleScout's proprietary talent technology platform providing
+      AI-driven candidate experience, recruitment marketing, and talent
+      intelligence tools for RPO engagements.
+    tags:
+      - Technology Platforms
+      - PeopleScout
+
+  - term: Stafftrack
+    definition: >-
+      TrueBlue's workforce management tool supporting the complete worker
+      lifecycle from hiring to offboarding including compliance management.
+    tags:
+      - Technology Platforms
+      - Workforce Management
+
+  - term: PeopleReady
+    definition: >-
+      TrueBlue's industrial staffing brand connecting businesses with
+      on-demand, skilled tradespeople for temporary and contract work.
+    tags:
+      - Brands
+
+  - term: PeopleScout
+    definition: >-
+      TrueBlue's talent solutions brand providing recruitment process
+      outsourcing (RPO), managed service programs (MSP), and talent advisory.
+    tags:
+      - Brands
+
+  - term: Contingent Workforce
+    definition: >-
+      Workers employed on a temporary, contract, or on-demand basis as opposed
+      to permanent employees. TrueBlue specializes in placing and managing
+      contingent workers.
+    tags:
+      - Workforce Management
+
+  - term: Recruitment Process Outsourcing
+    definition: >-
+      A form of business process outsourcing where an employer transfers all
+      or part of its recruitment processes to an external service provider
+      like PeopleScout.
+    abbreviation: RPO
+    tags:
+      - Talent Acquisition
+
+  - term: Managed Service Provider
+    definition: >-
+      A company that manages an organization's contingent workforce program,
+      including vendor management, compliance, and reporting.
+    abbreviation: MSP
+    tags:
+      - Workforce Management
+
+  - term: ReadyMatch
+    definition: >-
+      TrueBlue's AI-powered matching technology within JobStack that instantly
+      pairs job requirements with qualified workers based on skills, location,
+      and performance history.
+    tags:
+      - Technology Platforms
+      - AI
+
+  - term: Employer of Record
+    definition: >-
+      A service where TrueBlue acts as the legal employer for workers, handling
+      payroll, taxes, and compliance while the client company directs the work.
+    abbreviation: EOR
+    tags:
+      - Compliance
+      - Payroll
+
+  - term: E-Verify
+    definition: >-
+      An internet-based system that verifies an employee's eligibility to work
+      in the United States. TrueBlue performs E-Verify checks on all W-2 workers.
+    tags:
+      - Compliance
+
+  - term: Direct Sourcing
+    definition: >-
+      A talent acquisition strategy where organizations build private talent
+      communities of known workers to directly engage for future roles.
+    tags:
+      - Talent Acquisition
