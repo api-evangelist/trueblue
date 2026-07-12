@@ -23,6 +23,8 @@ modified: '2026-05-03'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/trueblue-domain-security.yml
   - type: Website
     url: https://www.trueblue.com/
   - type: Workforce Solutions
@@ -41,6 +43,8 @@ common:
     url: https://raw.githubusercontent.com/api-evangelist/trueblue/refs/heads/main/vocabulary/trueblue-vocabulary.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/trueblue-inc
+  - url: https://www.trueblue.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
