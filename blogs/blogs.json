@@ -5,12 +5,10 @@
       "source": "https://www.trueblue.com/feed/",
       "feed_url": "https://www.trueblue.com/feed/",
       "saved": 0,
-      "error": "no_feed_no_posts",
-      "nature": "undetermined",
-      "nature_basis": null
+      "error": "no_feed_no_posts"
     }
   ],
-  "fetched": "2026-08-30T22:33:40Z",
+  "fetched": "2026-09-06T19:17:18Z",
   "post_count": 19,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
