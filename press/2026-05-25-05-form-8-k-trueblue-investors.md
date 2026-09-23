@@ -1,7 +1,9 @@
 ---
 title: FORM 8-K - TrueBlue Investors
 url: https://investor.trueblue.com/sec-filings/all-sec-filings/content/0000768899-25-000041/0000768899-25-000041.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"TrueBlue" press release artificial intelligence'
 position: 5
 source: serpapi-google

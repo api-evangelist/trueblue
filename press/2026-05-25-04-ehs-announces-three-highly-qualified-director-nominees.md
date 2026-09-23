@@ -1,7 +1,9 @@
 ---
 title: EHS Announces Three Highly Qualified Director Nominees ...
 url: https://www.prnewswire.com/news-releases/ehs-announces-three-highly-qualified-director-nominees-for-election-to-trueblue-board-302655746.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"TrueBlue" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: TrueBlue's PeopleScout Advances Proprietary Talent Tech ...
 url: https://investor.trueblue.com/news-events/press-releases/detail/403/trueblues-peoplescout-advances-proprietary-talent-tech
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"TrueBlue" press release artificial intelligence'
 position: 1
 source: serpapi-google
